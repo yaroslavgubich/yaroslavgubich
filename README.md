@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Night View](https://raw.githubusercontent.com/yaroslavgubich/profile-3d-contrib/main/profile-night-view.svg)
 
-![Profile Night View](https://github.com/yaroslavgubich/profile-3d-contrib/blob/main/profile-night-view.svg)
