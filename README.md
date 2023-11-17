@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Profile Night View](https://raw.githubusercontent.com/yaroslavgubich/profile-3d-contrib/main/profile-night-view.svg)
 
 <!--
 **yaroslavgubich/yaroslavgubich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Night View](https://raw.githubusercontent.com/yaroslavgubich/profile-3d-contrib/main/profile-night-view.svg)
+
 
