@@ -1,4 +1,5 @@
-![Profile Night View](https://raw.githubusercontent.com/yaroslavgubich/profile-3d-contrib/main/profile-night-view.png)
+![Profile Night View](https://raw.githubusercontent.com/yaroslavgubich/yaroslavgubich/8d0c552fadb1b07fc677138c815c3bfbf74379f4/profile-3d-contrib/profile-night-view.svg)
+
 
 <!--
 **yaroslavgubich/yaroslavgubich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
