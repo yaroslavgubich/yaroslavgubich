@@ -7,7 +7,7 @@ Absolutely, adding emojis can make your portfolio more visually engaging. Here's
 ---
 
 ## About Me 🙋‍♂️
-Hello! I'm Yaroslav, a web developer based in Munich, Germany 🇩🇪. My expertise lies in creating 3D web experiences, combining technical skill with a flair for design. I have language skills in multiple languages, enhancing my ability to collaborate internationally.
+Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lies in creating 3D web experiences, combining technical skill with a flair for design. I have language skills in multiple languages, enhancing my ability to collaborate internationally.
 
 ---
 
@@ -20,37 +20,35 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany 🇩🇪. My exper
 
 ---
 
-## My Skills 💻
-
-### Development Technologies 🛠️:
-- **Programming Languages:** JavaScript, TypeScript, Python 🐍
-- **Front-End:** HTML, CSS, React ⚛️
-- **3D Web Development:** Three.js 
-- **Version Control & Collaboration:** Git, GitHub 🔄
-- **Scripting & Automation:** Bash 
-
-### Design & Modeling Tools 🎨:
-- **UI/UX Design:** Figma 📐
-- **Graphic Design & Image Editing:** Adobe Photoshop 🖌️
-- **3D Modeling & Animation:** Blender 🎞️
-
-### Code Editing 📝:
-- **Primary Code Editor:** Visual Studio Code ⌨️
-
+## My Skills💻
+Programming Languages:
+JavaScript
+TypeScript
+HTML
+CSS
+Python
 ---
+## Technologies & Tools:
+Git and GitHub
+Bash
+Three.js
+Visual Studio Code
+React
+Figma
+Adobe Photoshop
+Blender
 
-## Projects 📁
-(Here, you can list your key projects...)
+
+## Projects 
 
 ---
 
 ## Contact 📬
-- **Email:** [yar.mansens@gmail.com](mailto:yar.mansens@gmail.com) 📧
-- **LinkedIn:** [your-linkedin-profile](#) 🔗
+- **Email:** [yar.mansens@gmail.com](mailto:yar.mansens@gmail.com) 
+- **LinkedIn:** [[linkedin-profile](https://www.linkedin.com/in/yaroslav-gubich-0476382a0)](#) 🔗
 
 ---
 
-The use of emojis adds a layer of visual appeal and helps to distinguish different sections and skills. This should make your portfolio more engaging and fun to read while maintaining its professionalism.
 
 
 
