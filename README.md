@@ -2,7 +2,7 @@ Absolutely, adding emojis can make your portfolio more visually engaging. Here's
 
 ---
 
-# Yaroslav's Web Developer Portfolio 🌐
+# Yaroslav Web Developer 🌐
 
 ---
 
@@ -20,7 +20,7 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 
 ---
 
-## My Skills💻
+## My Skills 💻
 
 Programming Languages:
 JavaScript
@@ -30,7 +30,7 @@ CSS
 Python
 ---
 
-## Technologies & Tools:
+## Technologies & Tools ⚙️:
 Git and GitHub
 Bash
 Three.js
