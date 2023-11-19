@@ -21,6 +21,7 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 ---
 
 ## My Skills💻
+
 Programming Languages:
 JavaScript
 TypeScript
@@ -28,6 +29,7 @@ HTML
 CSS
 Python
 ---
+
 ## Technologies & Tools:
 Git and GitHub
 Bash
@@ -45,7 +47,7 @@ Blender
 
 ## Contact 📬
 - **Email:** [yar.mansens@gmail.com](mailto:yar.mansens@gmail.com) 
-- **LinkedIn:** [[linkedin-profile](https://www.linkedin.com/in/yaroslav-gubich-0476382a0)](#) 🔗
+- **LinkedIn:** [[linkedin-profile](https://www.linkedin.com/in/yaroslav-gubich-0476382a0)] 🔗
 
 ---
 
