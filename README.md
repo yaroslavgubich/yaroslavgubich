@@ -1,6 +1,3 @@
-Absolutely, adding emojis can make your portfolio more visually engaging. Here's the updated version with additional emojis:
-
----
 
 # Yaroslav Web Developer 🌐
 
