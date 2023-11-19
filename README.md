@@ -5,7 +5,6 @@ Absolutely, adding emojis can make your portfolio more visually engaging. Here's
 # Yaroslav Web Developer 🌐
 
 
-## About Me 🙋‍♂️
 Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lies in creating 3D web experiences, combining technical skill with a flair for design. I have language skills in multiple languages, enhancing my ability to collaborate internationally.
 
 
