@@ -12,11 +12,11 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany 🇩🇪. My exper
 ---
 
 ## Language Proficiency 🌍
-- 🇺🇸 English
-- 🇩🇪 German
-- 🇺🇦 Ukrainian
-- 🇷🇺 Russian
-- 🇪🇸 Spanish
+-  English
+-  German
+-  Ukrainian
+-  Russian
+-  Spanish
 
 ---
 
@@ -25,9 +25,9 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany 🇩🇪. My exper
 ### Development Technologies 🛠️:
 - **Programming Languages:** JavaScript, TypeScript, Python 🐍
 - **Front-End:** HTML, CSS, React ⚛️
-- **3D Web Development:** Three.js 🖥️
+- **3D Web Development:** Three.js 
 - **Version Control & Collaboration:** Git, GitHub 🔄
-- **Scripting & Automation:** Bash 🖥️
+- **Scripting & Automation:** Bash 
 
 ### Design & Modeling Tools 🎨:
 - **UI/UX Design:** Figma 📐
