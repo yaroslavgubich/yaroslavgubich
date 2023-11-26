@@ -46,8 +46,8 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 ## Contact me ! 
 
 
-<p>
-    <a href="https://t.me/mu_ukraine">
+
+<a href="https://t.me/mu_ukraine">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/svg/logos/bxl-telegram.svg" style="width:40px; margin-left: 14px; margin-top: 10px">
 
 
@@ -56,7 +56,6 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 </a>
 
  <a href="https://www.linkedin.com/in/yaroslav-gubich-0476382a0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:35px; margin: 16px"/></a>
-</p>
 
 
 
