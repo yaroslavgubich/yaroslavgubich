@@ -22,7 +22,7 @@ HTML
 CSS
 Python
 
-## Technologies & Tools ⚙️:
+ Technologies & Tools ⚙️:
 Git and GitHub
 Bash
 Three.js
