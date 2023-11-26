@@ -46,22 +46,24 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 ## Contact me ! 
 
 
-<a href="https://t.me/mu_ukraine"  >
-    <svg style="width: 2em; margin: 13px" xmlns="http://www.w3.org/2000/svg " enable-background="new 0 0 24 24" viewBox="0 0 24 24" id="telegram">
-        <circle cx="12" cy="12" r="12" fill="#039be5"></circle>
-        <path fill="#fff" d="m5.491 11.74 11.57-4.461c.537-.194 1.006.131.832.943l.001-.001-1.97 9.281c-.146.658-.537.818-1.084.508l-3-2.211-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.121l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953z"></path>
-    </svg>
-</a>
-<details>
-    <summary>QR Code</summary>
-    <img src="your-image-link-here" alt="QR Code Image Description">
-    <!-- Additional content can go here -->
-</details>
+<p>
+    <a href="https://t.me/mu_ukraine">
+        <svg style="width: 2em; margin: 13px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="12" fill="#039be5"></circle>
+            <path fill="#fff" d="m5.491 11.74 11.57-4.461c.537-.194 1.006.131.832.943l.001-.001-1.97 9.281c-.146.658-.537.818-1.084.508l-3-2.211-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.121l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953z"></path>
+        </svg>
+    </a>
+    <details>
+        <summary>QR Code</summary>
+        <img src="your-image-link-here" alt="QR Code Image Description">
+    </details>
+</p>
+
 
 
 <br>
 <a href="mailto:yar.mansens@gmail.com">
-    <img src="https://www.cdnlogo.com/logos/g/93/gmail.svg" style="width:4em">
+    <img src="https://www.cdnlogo.com/logos/g/93/gmail.svg" style="width:70px">
 </a>
 
 
