@@ -8,11 +8,11 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 ## Language Proficiency 🌍
 <td>
         <ul>
-            <li><img  src="https://flagcdn.com/gb.svg" alt="German Flag" style="width: 1.3em;"> English</li>
-            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.2/flags/4x3/de.svg" alt="German Flag" style="width: 1.3em;"> German</li>
-            <li><img src="https://flagcdn.com/ua.svg" style="width: 1.3em;" alt="Ukrainian Flag"> Ukrainian</li>
-            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.2/flags/4x3/ru.svg" alt="Russian Flag" style="width: 1.3em;"> Russian</li>
-            <li><img src="https://flagcdn.com/es.svg" style="width: 1.3em;" alt="Spanish Flag"> Spanish</li>
+            <li><img  src="https://flagcdn.com/gb.svg" alt="German Flag" style="width: 20px;"> English</li>
+            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.2/flags/4x3/de.svg" alt="German Flag" style="width: 20px;"> German</li>
+            <li><img src="https://flagcdn.com/ua.svg" style="width: 20px;" alt="Ukrainian Flag"> Ukrainian</li>
+            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.2/flags/4x3/ru.svg" alt="Russian Flag" style="width: 20px;"> Russian</li>
+            <li><img src="https://flagcdn.com/es.svg" style="width: 20px;" alt="Spanish Flag"> Spanish</li>
         </ul>
     </td> 
 
