@@ -48,31 +48,17 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 
 <p>
     <a href="https://t.me/mu_ukraine">
-        <svg style="width: 2em; margin: 13px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-            <circle cx="12" cy="12" r="12" fill="#039be5"></circle>
-            <path fill="#fff" d="M5.491,11.74l11.57-4.461c0.537-0.194,1.006,0.131,0.832,0.943l0.001-0.001l-1.97,9.281
-            c-0.146,0.658-0.537,0.818-1.084,0.508l-3-2.211l-1.447,1.394c-0.16,0.16-0.295,0.295-0.605,0.295l0.213-3.053l5.56-5.023
-            c0.242-0.213-0.054-0.333-0.373-0.121l-6.871,4.326l-2.962-0.924c-0.643-0.204-0.657-0.643,0.136-0.953z"></path>
-        </svg>
-    </a>
-    <details>
-        <summary>QR Code</summary>
-        <img src="your-image-link-here" alt="QR Code Image Description">
-    </details>
-</p>
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/svg/logos/bxl-telegram.svg" style="width:40px; margin-left: 14px; margin-top: 10px">
 
 
-
-<br>
 <a href="mailto:yar.mansens@gmail.com">
     <img src="https://www.cdnlogo.com/logos/g/93/gmail.svg" style="width:70px">
 </a>
 
+ <a href="https://www.linkedin.com/in/yaroslav-gubich-0476382a0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:35px; margin: 16px"/></a>
+</p>
 
 
-- **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/yaroslav-gubich-0476382a0)
-
----
 
 
 
