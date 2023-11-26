@@ -12,7 +12,6 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 -  Russian
 -  Spanish
 
----
 
 ## My Skills 💻
 
