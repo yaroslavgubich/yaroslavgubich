@@ -22,7 +22,6 @@ TypeScript
 HTML
 CSS
 Python
----
 
 ## Technologies & Tools ⚙️:
 Git and GitHub
