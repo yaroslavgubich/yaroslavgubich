@@ -6,34 +6,66 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 
 
 ## Language Proficiency 🌍
--  English
--  German
--  Ukrainian
--  Russian
--  Spanish
+<td>
+        <ul>
+            <li><img  src="https://flagcdn.com/gb.svg" alt="German Flag" style="width: 1.3rem;"> English</li>
+            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.2/flags/4x3/de.svg" alt="German Flag" style="width: 1.3rem;"> German</li>
+            <li><img src="https://flagcdn.com/ua.svg" style="width: 1.3rem;" alt="Ukrainian Flag"> Ukrainian</li>
+            <li><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.2/flags/4x3/ru.svg" alt="Russian Flag" style="width: 1.3rem;"> Russian</li>
+            <li><img src="https://flagcdn.com/es.svg" style="width: 1.3rem;" alt="Spanish Flag"> Spanish</li>
+        </ul>
+    </td> 
 
+## My Skills and Tools 💻⚙️
 
-## My Skills 💻
+<br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="center" alt="Visual Studio Code" Title="VsCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="center" alt="HTML5" Title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="center" alt="CSS3" Title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="center" alt="JavaScript"Title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="center" alt="React" Title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="center" alt="Node.js" Title="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="center" alt="Git" Title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="center" alt="Bash" Title="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="center" alt="Bash" Title="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+<img align="center" alt="Blender" Title="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
+<img align="center" alt="Figma" Title="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <br>
 <br>
+
+
+          
 ---
 ## Projects
 
 ---
 
-## Contact 📬
-- **Email:** [yar.mansens@gmail.com](mailto:yar.mansens@gmail.com) 
-- **LinkedIn:** [[linkedin-profile](https://www.linkedin.com/in/yaroslav-gubich-0476382a0)] 🔗
+## Contact me ! 
+
+
+<a href="https://t.me/mu_ukraine"  >
+    <svg style="width: 2rem; margin: 13px" xmlns="http://www.w3.org/2000/svg " enable-background="new 0 0 24 24" viewBox="0 0 24 24" id="telegram">
+        <circle cx="12" cy="12" r="12" fill="#039be5"></circle>
+        <path fill="#fff" d="m5.491 11.74 11.57-4.461c.537-.194 1.006.131.832.943l.001-.001-1.97 9.281c-.146.658-.537.818-1.084.508l-3-2.211-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.121l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953z"></path>
+    </svg>
+</a>
+<details>
+    <summary>QR Code</summary>
+    <img src="your-image-link-here" alt="QR Code Image Description">
+    <!-- Additional content can go here -->
+</details>
+
+
+<br>
+<a href="mailto:yar.mansens@gmail.com">
+    <img src="https://www.cdnlogo.com/logos/g/93/gmail.svg" style="width:4rem">
+</a>
+
+
+
+- **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/yaroslav-gubich-0476382a0)
 
 ---
 
