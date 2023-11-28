@@ -44,12 +44,16 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 ---
 
 ## Contact me ! 
-
-
-
 <a href="https://t.me/mu_ukraine">
-        <img src="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/svg/logos/bxl-telegram.svg" style="width:40px; margin-left: 14px; margin-top: 10px">
-
+        <svg style="margin-bottom:8px" width="30" viewBox="0 0 361 361" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="telegramIconLogo">
+<circle id="Ellipse 1" cx="180.5" cy="180.5" r="180.5" fill="#2AA1DA"/>
+<path id="Polygon 4" d="M125.547 230.583C125.526 229.351 126.598 228.387 127.807 228.549L161.202 233.027C161.516 233.069 161.816 233.186 162.075 233.369L179.717 245.768C180.803 246.531 180.856 248.135 179.824 248.978L129.785 289.827C128.495 290.88 126.574 289.98 126.545 288.309L125.547 230.583Z" fill="#A9C6D8"/>
+<path id="Polygon 3" d="M129.048 290.084C128.693 291.084 127.23 290.911 127.113 289.856L118.357 211.282C118.286 210.643 118.827 210.105 119.465 210.18L154.67 214.337C155.309 214.412 155.712 215.062 155.497 215.667L129.048 290.084Z" fill="#C8DAEA"/>
+<path id="Polygon 1" d="M269.388 104.214C273.508 102.445 277.658 106.64 275.906 110.801L203.802 282.03C202.41 285.335 198.136 286.146 195.658 283.575L147.287 233.374C146.966 233.041 146.6 232.754 146.2 232.522L114.972 214.414C114.689 214.25 114.39 214.114 114.081 214.009L70.4078 199.183C66.0722 197.712 65.8436 191.604 70.0563 189.795L269.388 104.214Z" fill="white"/>
+<path id="Polygon 2" d="M234.984 140.263C236.977 138.941 239.164 141.626 237.496 143.347L149.721 233.887C149.073 234.555 148.056 234.685 147.266 234.201L121.97 218.713C120.721 217.948 120.69 216.127 121.914 215.315L234.984 140.263Z" fill="#C8DAEA"/>
+</g>
+</svg>
 
 <a href="mailto:yar.mansens@gmail.com">
     <img src="https://www.cdnlogo.com/logos/g/93/gmail.svg" style="width:70px">
