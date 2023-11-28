@@ -45,7 +45,7 @@ Hello! I'm Yaroslav, a web developer based in Munich, Germany . My expertise lie
 
 ## Contact me ! 
 <a href="https://t.me/mu_ukraine">
-        <svg style="margin-bottom:8px;" width="30" viewBox="0 0 361 361" xmlns="http://www.w3.org/2000/svg">
+        <svg style="margin-bottom:8px; margin-left:20px" width="30" viewBox="0 0 361 361"  xmlns="http://www.w3.org/2000/svg">
 <g id="telegramIconLogo">
 <circle id="Ellipse 1" cx="180.5" cy="180.5" r="180.5" fill="#2AA1DA"/>
 <path id="Polygon 4" d="M125.547 230.583C125.526 229.351 126.598 228.387 127.807 228.549L161.202 233.027C161.516 233.069 161.816 233.186 162.075 233.369L179.717 245.768C180.803 246.531 180.856 248.135 179.824 248.978L129.785 289.827C128.495 290.88 126.574 289.98 126.545 288.309L125.547 230.583Z" fill="#A9C6D8"/>
